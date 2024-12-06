@@ -1,4 +1,4 @@
-//Find the sum and percentage marks obtained by the student
+//C Program to find the sum and percentage of marks obtained by the student
 #include <stdio.h>
 int main()
 {
