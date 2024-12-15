@@ -5,7 +5,7 @@ int main()
 	int n,temp;
 	printf("Enter size of the array : ");
 	scanf("%d",&n);
-// Initialising an array with user input
+// Initialising an array with user inputs
 	int array[n];
 // Input array elements
 	printf("Enter elements in array : ");
@@ -19,7 +19,9 @@ int main()
 			temp=array[i];
 			array[i]=array[j];
 			array[j]=temp;
-    }}}
+		}
+		}
+		}
 // Printing last and first element 'coz array is sorted now
 	printf("minimum of array is : %d\n",array[n]);
 	printf("maximum of array is : %d",array[1]);
