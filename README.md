@@ -5,8 +5,7 @@ Specially for RKGIT Students🙂.
 <br>
 Kindly adjust the code as per your own needs.
 <br>
-<font color="green"> You can skip the lines I have commented out. </p>
-<br>
+<font color="green">You can skip the lines I have commented out. </p>
 Module 1 CHECK👍
 <br>
 Module 2 CHECK👍
