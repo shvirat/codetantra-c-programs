@@ -1,9 +1,9 @@
 # Codetantra-codes
-The codes have to execute on codetantra.
+The codes have to be executed on CodeTantra.
 <br>
 Specially for RKGIT Students🙂.
 <br>
-Kindly adjust code as per your own need.
+Kindly adjust the code as per your own needs.
 <br>
 Module 1 CHECK👍
 <br>
