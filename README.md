@@ -1,19 +1,23 @@
-# Codetantra-codes
-The codes have to be executed on CodeTantra.
-<br>
-Specially for RKGIT Students🙂.
-<br>
-Kindly adjust the code as per your own needs.
-<br>
-<font color="green">You can skip the lines I have commented out. </p>
-Module 1 CHECK👍
-<br>
-Module 2 CHECK👍
-<br>
-Module 3 CHECK👍
-<br>
-Module 4 CHECK👍
-<br>
-Module 5 CHECK👍
-<br>
-Module 6 --3/4👍
+# Codetantra Codes
+
+This repository contains solutions specifically designed to be executed on **CodeTantra**.
+
+## 📌 For RKGIT Students 🙂
+Feel free to adjust the code as per your requirements.
+
+> **Note:** You can skip the lines that are commented out in the code.
+
+## ✅ Modules Completion Status:
+- [x] **Module 1** - CHECK 👍
+- [x] **Module 2** - CHECK 👍
+- [x] **Module 3** - CHECK 👍
+- [x] **Module 4** - CHECK 👍
+- [x] **Module 5** - CHECK 👍
+- [x] **Module 6** - CHECK 👍
+
+### 💡 How to Use?
+1. Copy the required code.
+2. Paste it into the CodeTantra compiler.
+3. Run and verify the output.
+
+Enjoy coding! 🚀
