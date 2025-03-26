@@ -1,4 +1,4 @@
-# Codetantra Codes
+# Codetantra Codes (C Language)
 
 This repository contains solutions specifically designed to be executed on **CodeTantra**.
 
